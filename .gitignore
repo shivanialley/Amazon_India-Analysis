@@ -1,0 +1,7 @@
+models/
+data/
+*.pkl
+*.joblib
+.amazon/
+__pycache__/
+.amazon/
